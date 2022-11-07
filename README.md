@@ -82,7 +82,7 @@ You may need mannully define the resume path first.
 ### 4. Citation
 
 Please kindly cite this paper in your publications if it helps your research:
-```
+```bibtex
 @inproceedings{iccv21caj,
 author    = {Ye, Mang and Ruan, Weijian and Du, Bo and Shou, Mike Zheng},
 title     = {Channel Augmented Joint Learning for Visible-Infrared Recognition},
